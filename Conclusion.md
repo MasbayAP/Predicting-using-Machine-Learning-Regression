@@ -1,6 +1,6 @@
 # Conclusion
 
-##After we doing the step by step to build machine learning we can coclude that:
+## After we doing the step by step to build machine learning we can coclude that:
 - This data have positively skewed distribution on Overtime Pay and Other Pay,which means there's a outliers on both feautures and we need to handling it.
 The reason why we need to handling a outliers because linear regression is very susceptible to outliers. For more explanation you can visit this link: https://medium.com/swlh/how-outliers-can-pose-a-problem-in-linear-regression-1431c50a8e0
 or you can search it on google.
