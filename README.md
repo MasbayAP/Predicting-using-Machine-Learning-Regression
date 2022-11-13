@@ -1,4 +1,4 @@
-# Predicting-using-Machine-Learning-Regression
+# Comparing to Find The Best Regression Model for Predicting 
 This notebook will show you step by step to build machine learning to predict compensation of some employee.
 
 ## Step by Step:
