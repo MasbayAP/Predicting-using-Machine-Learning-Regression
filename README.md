@@ -1,5 +1,5 @@
 # Comparing to Find The Best Regression Model for Predicting 
-This notebook will show you step by step to build machine learning to predict compensation of some employee.
+**This notebook will show you step by step to build machine learning to predict compensation of some employee. I've got the dataset from official website of https://www.phoenixopendata.com, you can explore this website for more dataset.**
 
 ## Step by Step:
 ## 1. Data Understanding: Before we start to process our data we MUST understand a feautures of the data
